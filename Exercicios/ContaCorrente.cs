@@ -41,6 +41,7 @@ namespace Exercicios
             {
                 Console.WriteLine($"Saque negado!");
                 Console.WriteLine($"Seu limite é de: {Limite}");
+                Console.WriteLine($"Sua tentativa de saque foi de: {Saque}");
                 Console.WriteLine($"Seu saldo é de: {Saldo}");
 
             }

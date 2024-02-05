@@ -168,7 +168,7 @@ internal class Program
         //Adicionando esse comando lá em cima:
         //public static ContaCorrente ContaCorrente { get; private set; }
 
-        ContaCorrente c1 = new("Banco do Brasil", 1234, 500, 50, 10, 20);
+        ContaCorrente c1 = new("Banco do Brasil", 1234, 500, 50, 10, 60);
 
         c1.MinhaConta();
         c1.Depositar();
